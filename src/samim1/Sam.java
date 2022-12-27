@@ -6,5 +6,10 @@ public class Sam {
 		System.out.println("Yes i can do it");
 
 	}
+	public void SamJan(){
+		
+	System.out.println("yes too good");	
+		
+	}
 
 }
